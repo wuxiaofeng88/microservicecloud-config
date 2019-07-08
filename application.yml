@@ -5,10 +5,10 @@
 ---
 spring:
   profiles: dev
-    application:
-      name: microservicecloud-config-km-dev
+  application:
+    name: microservicecloud-config-km-dev
 ---
 spring:
   profiles: test
-    application:
-      name: microservicecloud-config-km-test
+  application:
+    name: microservicecloud-config-km-test
